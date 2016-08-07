@@ -6,7 +6,7 @@ Using this source is really simple:
 
 2. Restart your Ark Modding Kit
 
-3. You should now see the a Character Blueprint and a Buff 
+3. You should now see a Character Blueprint and a Buff 
 
 4. It is possible that you need to properly link the Character Blueprint
   
